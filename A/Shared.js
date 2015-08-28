@@ -1,3 +1,8 @@
+function shx()
+{
+  return "master2";
+}
+
 function m()
 {
   return "master";
